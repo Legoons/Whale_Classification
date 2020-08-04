@@ -14,3 +14,9 @@ CNN 기법 중, 2017 이미지넷 챌린지(ILSVRC 2017)에서 우승한 SENet�
 
 
 ![senet](https://user-images.githubusercontent.com/50981989/89257459-2807e800-d661-11ea-9466-3de1efdb3abc.PNG)
+
+SE는 각 피쳐맵에 대한 전체 정보를 요약하는 Squeeze operation, 이를 통해 각 피쳐맵의 중요도를 스케일해주는 excitation operation으로 이루어져 있습니다. 이렇게 하나의 덩어리를 SE block이라고 합니다. 
+
+SEnet은 네트워크 어떤 곳이라도 바로 붙일 수 있습니다. VGG, GoogLeNet, ResNet 등 어느 네트워크에도 바로 부착이 가능합니다.
+파라미터의 증가량에 비해 모델 성능 향상도가 매우 큽니다. 이는 모델 복잡도(Model complexity)와 계산 복잡도(computational burden)이 크게 증가하지 않다는 장점이 있습니다.
+

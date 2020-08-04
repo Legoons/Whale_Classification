@@ -26,4 +26,7 @@ Senet을 Residual 모듈 뒤에 붙여 활용하는 방식입니다.
 
 # Reference
  https://arxiv.org/pdf/1709.01507.pdf
+ 
+ https://github.com/KaiyangZhou/deep-person-reid/blob/master/torchreid/models/senet.py
+ 
  https://jayhey.github.io/deep%20learning/2018/07/18/SENet/

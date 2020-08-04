@@ -20,3 +20,6 @@ SE는 각 피쳐맵에 대한 전체 정보를 요약하는 Squeeze operation, �
 SEnet은 네트워크 어떤 곳이라도 바로 붙일 수 있습니다. VGG, GoogLeNet, ResNet 등 어느 네트워크에도 바로 부착이 가능합니다.
 파라미터의 증가량에 비해 모델 성능 향상도가 매우 큽니다. 이는 모델 복잡도(Model complexity)와 계산 복잡도(computational burden)이 크게 증가하지 않다는 장점이 있습니다.
 
+![seres](https://user-images.githubusercontent.com/50981989/89257642-892fbb80-d661-11ea-90cd-dc4360455d95.PNG)
+
+Senet을 Residual 모듈 뒤에 붙여 활용하는 방식입니다.

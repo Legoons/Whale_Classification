@@ -13,4 +13,4 @@ https://www.kaggle.com/c/humpback-whale-identification
 CNN 기법 중, 2017 이미지넷 챌린지(ILSVRC 2017)에서 우승한 SENet을 Resnet의 변형인 Resnext-101에 적용시킨 알고리즘을 활용하였습니다.
 
 
-
+![senet](https://user-images.githubusercontent.com/50981989/89257459-2807e800-d661-11ea-9466-3de1efdb3abc.PNG)

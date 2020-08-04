@@ -23,3 +23,7 @@ SEnet은 네트워크 어떤 곳이라도 바로 붙일 수 있습니다. VGG, G
 ![seres](https://user-images.githubusercontent.com/50981989/89257642-892fbb80-d661-11ea-90cd-dc4360455d95.PNG)
 
 Senet을 Residual 모듈 뒤에 붙여 활용하는 방식입니다.
+
+# Reference
+ https://arxiv.org/pdf/1709.01507.pdf
+ https://jayhey.github.io/deep%20learning/2018/07/18/SENet/
